@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Welcome%20&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20&fontSize=80)
 
 <h3 align="center">Tech stack</h3>
 <div align="center">
@@ -13,7 +13,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Jira Software-eeeeee?style=flat&logo=AXIOS&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Confluence-eeeeee?style=flat&logo=AXIOS&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Figma-eeeeee?style=flat&logo=AXIOS&logoColor=white"/></a>
-
+<br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunjin09&layout=compact)](https://github.com/Eunjin09/github-readme-stats)
